@@ -18,6 +18,7 @@ https://https-shini.github.io/login-page/
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
+- JavaScript
 
 ## ☆ Projeto
 
