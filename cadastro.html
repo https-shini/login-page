@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Guilherme Souza">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="png" href="assets\imgs\icon.png"/>
+    <link rel="stylesheet" href="assets\css\cadastro-style.css">
+    <title>Página de Cadastro</title>
+</head>
+<body>
+    <div class="main-login"> 
+        <div class="right-login"> 
+            <div class="card-login"> 
+                <br>
+                <h1>Crie sua conta aqui</h1>
+                <div class="textfield">
+                    <label for="user" class="text-p" id="user">Usuário</label>
+                    <input type="text" name="user" placeholder="Coloque um usuario...">
+                </div>
+                <div class="textfield">
+                    <label for="email" class="text-p" id="email">Email</label>
+                    <input type="text" name="email" placeholder="Coloque seu email...">
+                </div>
+                <div class="textfield">
+                    <label for="senha" class="text-p" id="senha">Senha</label>
+                    <input type="password" name="senha" placeholder="Coloque uma senha...">
+                </div>
+                <input class="btn-login" type="submit" value="Cadastrar" onclick="fazerCadastro(); return false"></input>
+                <h4 class="text-h4">
+                    Já possui uma conta? <a href="index.html" style="color: #73edae">Faça seu login</a>
+                </h4>
+            </div>
+        </div>
+        <div class="left-login">
+            <h1>Crie sua conta e entre<br>para o nosso time</h1>
+            <img src="assets\imgs\img-cadastro.svg" class="left-login-image">
+        </div>
+    </div>
+</body>
+</html>
