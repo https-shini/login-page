@@ -5,6 +5,7 @@
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Notas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -31,6 +32,11 @@ Você pode visualizar o layout do projeto através das fotos abaixo.<br>
 ![image](https://user-images.githubusercontent.com/100307080/229210203-ff26c9df-a0dc-42c6-a480-6f66ef17339a.png)
 
 ![image](https://user-images.githubusercontent.com/100307080/229210264-ad75e632-b27e-4540-9aa6-38e2ff97ac2b.png)
+
+## ☆ Notas
+
+**ATENÇÃO!**
+O projeto ainda não foi concluido, então em breve terá mais atualizações e melhoras.
 
 ## ☆ Licença
 
