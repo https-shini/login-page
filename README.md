@@ -36,7 +36,7 @@ Você pode visualizar o layout do projeto através das fotos abaixo.<br>
 ## ☆ Notas
 
 **ATENÇÃO!**
-O projeto ainda não foi concluido, então em breve terá mais atualizações e melhoras.
+Este projeto ainda não foi concluido, então em breve terá mais atualizações e melhoras.
 
 ## ☆ Licença
 
